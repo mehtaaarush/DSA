@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aarush12641/DSA/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aarush12641/DSA/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
