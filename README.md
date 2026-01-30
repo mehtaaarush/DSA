@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aarush12641/DSA/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
+| [0349-intersection-of-two-arrays](https://github.com/Aarush12641/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -28,4 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Aarush12641/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Aarush12641/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Aarush12641/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Aarush12641/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
