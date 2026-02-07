@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
+| [1518-water-bottles](https://github.com/Aarush12641/DSA/tree/master/1518-water-bottles) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aarush12641/DSA/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/Aarush12641/DSA/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
