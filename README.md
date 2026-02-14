@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/Aarush12641/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Aarush12641/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Aarush12641/DSA/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Aarush12641/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Aarush12641/DSA/tree/master/0414-third-maximum-number) |
 ## Stack
 |  |
 | ------- |
