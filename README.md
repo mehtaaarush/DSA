@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Aarush12641/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Aarush12641/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aarush12641/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aarush12641/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aarush12641/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1518-water-bottles](https://github.com/Aarush12641/DSA/tree/master/1518-water-bottles) |
 ## Hash Table
 |  |
