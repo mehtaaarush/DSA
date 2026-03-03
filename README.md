@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aarush12641/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Aarush12641/DSA/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/Aarush12641/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aarush12641/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Aarush12641/DSA/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aarush12641/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0344-reverse-string](https://github.com/Aarush12641/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Aarush12641/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aarush12641/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Binary Search
