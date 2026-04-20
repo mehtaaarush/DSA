@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aarush12641/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Aarush12641/DSA/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Aarush12641/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aarush12641/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/Aarush12641/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aarush12641/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aarush12641/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1518-water-bottles](https://github.com/Aarush12641/DSA/tree/master/1518-water-bottles) |
@@ -125,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aarush12641/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aarush12641/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
