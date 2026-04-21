@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aarush12641/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aarush12641/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Aarush12641/DSA/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Aarush12641/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Aarush12641/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Aarush12641/DSA/tree/master/0414-third-maximum-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Aarush12641/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Aarush12641/DSA/tree/master/0189-rotate-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aarush12641/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1518-water-bottles](https://github.com/Aarush12641/DSA/tree/master/1518-water-bottles) |
 ## Hash Table
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Aarush12641/DSA/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aarush12641/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Aarush12641/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Aarush12641/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Aarush12641/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aarush12641/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
