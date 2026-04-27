@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarush12641/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Aarush12641/DSA/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aarush12641/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Aarush12641/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aarush12641/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Aarush12641/DSA/tree/master/0283-move-zeroes) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aarush12641/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Aarush12641/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aarush12641/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aarush12641/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Aarush12641/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Greedy
 |  |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aarush12641/DSA/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aarush12641/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
