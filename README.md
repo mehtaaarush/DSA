@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aarush12641/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aarush12641/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Aarush12641/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aarush12641/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Aarush12641/DSA/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aarush12641/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aarush12641/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Aarush12641/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarush12641/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Aarush12641/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aarush12641/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -175,5 +177,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aarush12641/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aarush12641/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
