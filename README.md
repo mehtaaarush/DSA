@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Aarush12641/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Aarush12641/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0509-fibonacci-number](https://github.com/Aarush12641/DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aarush12641/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Aarush12641/DSA/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Aarush12641/DSA/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aarush12641/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1518-water-bottles](https://github.com/Aarush12641/DSA/tree/master/1518-water-bottles) |
 ## Hash Table
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aarush12641/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarush12641/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Aarush12641/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarush12641/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aarush12641/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
