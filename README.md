@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Aarush12641/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Aarush12641/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Aarush12641/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Aarush12641/DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Aarush12641/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aarush12641/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Aarush12641/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Aarush12641/DSA/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aarush12641/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1518-water-bottles](https://github.com/Aarush12641/DSA/tree/master/1518-water-bottles) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aarush12641/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aarush12641/DSA/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Aarush12641/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
