@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Aarush12641/DSA/tree/master/0561-array-partition) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aarush12641/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/Aarush12641/DSA/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/Aarush12641/DSA/tree/master/0877-stone-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aarush12641/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aarush12641/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aarush12641/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aarush12641/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Aarush12641/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Aarush12641/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Aarush12641/DSA/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aarush12641/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1518-water-bottles](https://github.com/Aarush12641/DSA/tree/master/1518-water-bottles) |
 ## Hash Table
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Aarush12641/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Aarush12641/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aarush12641/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Aarush12641/DSA/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -201,4 +204,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Aarush12641/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Aarush12641/DSA/tree/master/0231-power-of-two) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aarush12641/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aarush12641/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aarush12641/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
