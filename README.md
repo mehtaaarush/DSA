@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aarush12641/DSA/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aarush12641/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1518-water-bottles](https://github.com/Aarush12641/DSA/tree/master/1518-water-bottles) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aarush12641/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/Aarush12641/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Aarush12641/DSA/tree/master/2413-smallest-even-multiple) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Aarush12641/DSA/tree/master/2651-calculate-delayed-arrival-time) |
