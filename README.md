@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aarush12641/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1518-water-bottles](https://github.com/Aarush12641/DSA/tree/master/1518-water-bottles) |
 | [2235-add-two-integers](https://github.com/Aarush12641/DSA/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Aarush12641/DSA/tree/master/2413-smallest-even-multiple) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Aarush12641/DSA/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Aarush12641/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 ## Hash Table
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Aarush12641/DSA/tree/master/0877-stone-game) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Aarush12641/DSA/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
