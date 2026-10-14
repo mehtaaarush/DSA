@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Aarush12641/DSA/tree/master/1672-richest-customer-wealth) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aarush12641/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aarush12641/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aarush12641/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Aarush12641/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aarush12641/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aarush12641/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aarush12641/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Aarush12641/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Aarush12641/DSA/tree/master/0561-array-partition) |
 | [2833-furthest-point-from-origin](https://github.com/Aarush12641/DSA/tree/master/2833-furthest-point-from-origin) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aarush12641/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Database
 |  |
 | ------- |
