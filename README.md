@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/Aarush12641/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Aarush12641/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Aarush12641/DSA/tree/master/2413-smallest-even-multiple) |
+| [2485-find-the-pivot-integer](https://github.com/Aarush12641/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aarush12641/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Aarush12641/DSA/tree/master/2544-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Aarush12641/DSA/tree/master/2651-calculate-delayed-arrival-time) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarush12641/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Aarush12641/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/Aarush12641/DSA/tree/master/2485-find-the-pivot-integer) |
 ## Memoization
 |  |
 | ------- |
