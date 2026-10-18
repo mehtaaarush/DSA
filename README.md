@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Aarush12641/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Aarush12641/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aarush12641/DSA/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Aarush12641/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aarush12641/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aarush12641/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/Aarush12641/DSA/tree/master/1323-maximum-69-number) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Aarush12641/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aarush12641/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Aarush12641/DSA/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Aarush12641/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aarush12641/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aarush12641/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Aarush12641/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
