@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Aarush12641/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aarush12641/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aarush12641/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aarush12641/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aarush12641/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Aarush12641/DSA/tree/master/1672-richest-customer-wealth) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aarush12641/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Aarush12641/DSA/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Aarush12641/DSA/tree/master/0561-array-partition) |
 | [0922-sort-array-by-parity-ii](https://github.com/Aarush12641/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aarush12641/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aarush12641/DSA/tree/master/0062-unique-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aarush12641/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
