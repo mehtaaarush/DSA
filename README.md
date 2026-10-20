@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/Aarush12641/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Aarush12641/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Aarush12641/DSA/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/Aarush12641/DSA/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Aarush12641/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aarush12641/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Aarush12641/DSA/tree/master/2544-alternating-digit-sum) |
