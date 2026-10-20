@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Aarush12641/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aarush12641/DSA/tree/master/1929-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aarush12641/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2574-left-and-right-sum-differences](https://github.com/Aarush12641/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aarush12641/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aarush12641/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aarush12641/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Aarush12641/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/Aarush12641/DSA/tree/master/2485-find-the-pivot-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/Aarush12641/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Memoization
 |  |
 | ------- |
