@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Aarush12641/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aarush12641/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aarush12641/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1512-number-of-good-pairs](https://github.com/Aarush12641/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Aarush12641/DSA/tree/master/1672-richest-customer-wealth) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aarush12641/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Aarush12641/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aarush12641/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Aarush12641/DSA/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aarush12641/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/Aarush12641/DSA/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Aarush12641/DSA/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aarush12641/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Aarush12641/DSA/tree/master/1688-count-of-matches-in-tournament) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Aarush12641/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aarush12641/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aarush12641/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Aarush12641/DSA/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aarush12641/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aarush12641/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Aarush12641/DSA/tree/master/0561-array-partition) |
+| [1512-number-of-good-pairs](https://github.com/Aarush12641/DSA/tree/master/1512-number-of-good-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Aarush12641/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aarush12641/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Database
