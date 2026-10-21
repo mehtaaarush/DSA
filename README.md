@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Aarush12641/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Aarush12641/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aarush12641/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0709-to-lower-case](https://github.com/Aarush12641/DSA/tree/master/0709-to-lower-case) |
 | [2833-furthest-point-from-origin](https://github.com/Aarush12641/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
