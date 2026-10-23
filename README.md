@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Aarush12641/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aarush12641/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aarush12641/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Aarush12641/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aarush12641/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2574-left-and-right-sum-differences](https://github.com/Aarush12641/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aarush12641/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Aarush12641/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aarush12641/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/Aarush12641/DSA/tree/master/0709-to-lower-case) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Aarush12641/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2833-furthest-point-from-origin](https://github.com/Aarush12641/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Aarush12641/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Aarush12641/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aarush12641/DSA/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Aarush12641/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Aarush12641/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Queue
 |  |
