@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aarush12641/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/Aarush12641/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aarush12641/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aarush12641/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aarush12641/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aarush12641/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aarush12641/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aarush12641/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Aarush12641/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/Aarush12641/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
