@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aarush12641/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Aarush12641/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarush12641/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Aarush12641/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aarush12641/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Aarush12641/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarush12641/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aarush12641/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Aarush12641/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aarush12641/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Aarush12641/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aarush12641/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aarush12641/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Aarush12641/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aarush12641/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aarush12641/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Aarush12641/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Aarush12641/DSA/tree/master/0414-third-maximum-number) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aarush12641/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aarush12641/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Aarush12641/DSA/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Aarush12641/DSA/tree/master/1051-height-checker) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aarush12641/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Aarush12641/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Aarush12641/DSA/tree/master/0191-number-of-1-bits) |
 ## Prefix Sum
 |  |
@@ -340,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Aarush12641/DSA/tree/master/1051-height-checker) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aarush12641/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
