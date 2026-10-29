@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Aarush12641/DSA/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/Aarush12641/DSA/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aarush12641/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Aarush12641/DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aarush12641/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aarush12641/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Aarush12641/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Aarush12641/DSA/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Aarush12641/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aarush12641/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Aarush12641/DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aarush12641/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Aarush12641/DSA/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Aarush12641/DSA/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/Aarush12641/DSA/tree/master/1512-number-of-good-pairs) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Aarush12641/DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Aarush12641/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2833-furthest-point-from-origin](https://github.com/Aarush12641/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aarush12641/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
