@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aarush12641/DSA/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Aarush12641/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarush12641/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Aarush12641/DSA/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aarush12641/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/Aarush12641/DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Aarush12641/DSA/tree/master/0877-stone-game) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Aarush12641/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aarush12641/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aarush12641/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Aarush12641/DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Aarush12641/DSA/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Aarush12641/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aarush12641/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Aarush12641/DSA/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Aarush12641/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarush12641/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Aarush12641/DSA/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/Aarush12641/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/Aarush12641/DSA/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aarush12641/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aarush12641/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Aarush12641/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Aarush12641/DSA/tree/master/0231-power-of-two) |
+| [0645-set-mismatch](https://github.com/Aarush12641/DSA/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aarush12641/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Minimax
 |  |
