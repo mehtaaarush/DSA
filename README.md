@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/Aarush12641/DSA/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Aarush12641/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Aarush12641/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3360-stone-removal-game](https://github.com/Aarush12641/DSA/tree/master/3360-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aarush12641/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aarush12641/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Aarush12641/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3360-stone-removal-game](https://github.com/Aarush12641/DSA/tree/master/3360-stone-removal-game) |
 ## Queue
 |  |
 | ------- |
